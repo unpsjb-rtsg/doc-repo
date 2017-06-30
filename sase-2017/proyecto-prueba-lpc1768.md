@@ -1,10 +1,11 @@
+
 # Proyecto de prueba
 Esta guía describe como importar un proyecto de prueba para la placa [mbed LPC1768](https://developer.mbed.org/platforms/mbed-LPC1768/) en Eclipse.
 
 ---
 
 ## Clonar el proyecto
-Clonar el proyecto de prueba usando Git: [https://github.com/unpsjb-rtsg/mbed-blinky-makefile]()
+Clonar el proyecto de prueba usando Git: https://github.com/unpsjb-rtsg/mbed-blinky-makefile
 * Desde un cliente, usar la opción **[Clone]**.
 * Desde la linea de comandos utilizar el comando `git clone`.
 

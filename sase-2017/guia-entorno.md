@@ -67,15 +67,15 @@ $
 ---
 
 ## Git
-Descargar Git desde [https://git-scm.com]() e instalarlo.
+Descargar Git desde https://git-scm.com e instalarlo.
 
 Se puede utilizar la interfaza gráfica `git-gui` ya incluida con Git, o seleccionar algún [cliente de terceros](https://git-scm.com/downloads/guis).
 
 En esta guía solo se utilizarán comandos básicos de Git. Se pueden consultar estos tutoriales para conocer con más detalle su operación:
-* Git in 15 minutes: [https://try.github.io/]()
-* Colección de tutoriales: [https://www.atlassian.com/git/tutorials]()
-* Git Tutorial: [https://git-scm.com/docs/gittutorial]()
-* Pro Git book: [https://book.git-scm.com/book/en/v2]()
+* Git in 15 minutes: https://try.github.io/
+* Colección de tutoriales: https://www.atlassian.com/git/tutorials
+* Git Tutorial: https://git-scm.com/docs/gittutorial
+* Pro Git book: https://book.git-scm.com/book/en/v2
 
 ---
 
