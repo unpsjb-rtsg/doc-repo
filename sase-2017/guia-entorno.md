@@ -1,7 +1,20 @@
 ﻿
-# Entorno de desarrollo
+Entorno de desarrollo
+=====================
 
 Guía de instalación y configuración del entorno de desarrollo basado en [Eclipse](http://wwww.eclipse.org).
+
+Tabla de Contenidos:
+- [GNU ARM Eclipse](#gnu-arm-eclipse)
+- [Plug-ins adicionales](#plug-ins-adicionales)
+- [Percepio Tracealyzer para FreeRTOS](#percepio-tracealyzer-para-freertos)
+- [pyOCD](#pyocd)
+- [Git](#git)
+- [Proyecto de prueba](#proyecto-de-prueba)
+    - [Clonar el proyecto de prueba](#clonar-el-proyecto-de-prueba)
+    - [Importar el proyecto en Eclipse](#importar-el-proyecto-en-eclipse)
+    - [Compilar](#compilar)
+    - [Ejecutar](#ejecutar)
 
 ---
 
@@ -119,6 +132,8 @@ A continuación se creará y ejecutará una configuración de *debug*:
     * En la pestaña **[Common]**, seleccionar la opción **[Shared file:]**, indicando en el campo el nombre del proyecto. De esta manera el archivo `*.launch` con la configuración es guardado dentro del proyecto.
     * Hacer clic en el botón **[Apply]**.
 * Con la placa mbed LPC1768 conectada a la PC, hacer clic en el botón **[Debug]**. Es posible que Eclipse pregunte si se desea cambiar a la perspectiva *Debug*, responder que sí.
+
+
 
 ---
 
