@@ -9,11 +9,7 @@ Tabla de Contenidos:
 - [Percepio Tracealyzer para FreeRTOS](#percepio-tracealyzer-para-freertos)
 - [pyOCD](#pyocd)
 - [Git](#git)
-- [Proyecto de prueba](#proyecto-de-prueba)
-    - [Clonar el proyecto de prueba](#clonar-el-proyecto-de-prueba)
-    - [Importar el proyecto en Eclipse](#importar-el-proyecto-en-eclipse)
-    - [Compilar](#compilar)
-    - [Ejecutar](#ejecutar)
+- [A continuación](#a-continuaci-n)
 
 ---
 
