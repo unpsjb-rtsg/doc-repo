@@ -1,3 +1,4 @@
+
 # Proyecto de prueba
 Esta guía describe como importar un proyecto de prueba para la placa [mbed LPC1768](https://developer.mbed.org/platforms/mbed-LPC1768/) en Eclipse.
 
