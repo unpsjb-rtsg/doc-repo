@@ -4,7 +4,7 @@
 Guía de instalación y configuración del entorno de desarrollo basado en [Eclipse](http://www.eclipse.org).
 
 Tabla de Contenidos:
-- [GNU ARM Eclipse](#gnu-arm-eclipse)
+- [GNU MCU Eclipse](#gnu-mcu-eclipse)
 - [Plug-ins adicionales](#plug-ins-adicionales)
 - [Percepio Tracealyzer para FreeRTOS](#percepio-tracealyzer-para-freertos)
 - [pyOCD](#pyocd)
@@ -13,19 +13,19 @@ Tabla de Contenidos:
 
 ---
 
-## GNU ARM Eclipse
-Como primer paso, se instalará Eclipse CDT, el GNU ARM Embedded Toolchain, Windows Build Tools (si se utiliza Windows), Java (en caso de no estar ya instalado), y la serie de extensiones [GNU ARM Eclipse](http://gnuarmeclipse.github.io/).
+## GNU MCU Eclipse
+Como primer paso, se instalará Eclipse CDT, el GNU ARM Embedded Toolchain, Windows Build Tools (si se utiliza Windows), Java (en caso de no estar ya instalado), y la serie de extensiones [GNU ARM Eclipse](http://gnuarmeclipse.github.io/) (anteriormente denominadas GNU ARM Eclipse).
 
-Para esto, seguir la guía de instalación paso a paso de [GNU ARM Eclipse](http://gnuarmeclipse.github.io/install/).
+Para esto, seguir la guía de instalación paso a paso de [GNU MCU Eclipse](https://gnu-mcu-eclipse.github.io/install/).
 * No es necesario realizar los pasos para instalar SEGGER J-Link o QEMU.
 
 Estas son las guías a seguir en el enlace anterior (en orden):
-* [GNU ARM Embedded Toolchain](http://gnuarmeclipse.github.io/toolchain/install)
-* [Windows Build Tools](http://gnuarmeclipse.github.io/windows-build-tools/install/)
-* [OpenOCD](http://gnuarmeclipse.github.io/openocd/install)
-* [Eclipse CDT](http://gnuarmeclipse.github.io/plugins/install/)
-* [GNU ARM Eclipse Plug-ins](http://gnuarmeclipse.github.io/plugins/install/)
-* [Configuración adicional del workspace](http://gnuarmeclipse.github.io/eclipse/workspace/preferences) (no es obligatorio, aunque es recomendado)
+* [GNU ARM Embedded Toolchain](https://gnu-mcu-eclipse.github.io/toolchain/install)
+* [Windows Build Tools](https://gnu-mcu-eclipse.github.io/windows-build-tools/install/)
+* [OpenOCD](https://gnu-mcu-eclipse.github.io/openocd/install)
+* [Eclipse CDT](https://gnu-mcu-eclipse.github.io/plugins/install/)
+* [GNU ARM Eclipse Plug-ins](https://gnu-mcu-eclipse.github.io/plugins/install/)
+* [Configuración adicional del workspace](https://gnu-mcu-eclipse.github.io/eclipse/workspace/preferences) (no es obligatorio, aunque es recomendado)
 
 ---
 
