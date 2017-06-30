@@ -1,8 +1,7 @@
 ﻿
-Entorno de desarrollo
-=====================
+# Entorno de desarrollo
 
-Guía de instalación y configuración del entorno de desarrollo basado en [Eclipse](http://wwww.eclipse.org).
+Guía de instalación y configuración del entorno de desarrollo basado en [Eclipse](http://www.eclipse.org).
 
 Tabla de Contenidos:
 - [GNU ARM Eclipse](#gnu-arm-eclipse)
