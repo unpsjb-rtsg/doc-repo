@@ -9,8 +9,6 @@ Tabla de Contenidos:
 - [Git](#git)
 - [Proyecto de prueba](#proyecto-de-prueba)
 
---
-
 ---
 
 ## GNU MCU Eclipse
