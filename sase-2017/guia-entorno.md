@@ -1,14 +1,6 @@
 ﻿# Proyecto de prueba
 Esta documento presenta una una guía de instalación y configuración de un entorno de desarrollo basado en [Eclipse](http://www.eclipse.org).
 
-Tabla de Contenidos:
-- [GNU MCU Eclipse](#gnu-mcu-eclipse)
-- [Plug-ins adicionales](#plug-ins-adicionales)
-- [Percepio Tracealyzer para FreeRTOS](#percepio-tracealyzer-para-freertos)
-- [pyOCD](#pyocd)
-- [Git](#git)
-- [A continuación](#a-continuaci-n)
-
 ---
 
 ## GNU MCU Eclipse
