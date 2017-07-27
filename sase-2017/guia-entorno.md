@@ -1,6 +1,4 @@
-﻿
-# Entorno de desarrollo
-
+﻿# Entorno de desarrollo
 Esta documento presenta una una guía de instalación y configuración de un entorno de desarrollo basado en [Eclipse](http://www.eclipse.org).
 
 Tabla de Contenidos:
